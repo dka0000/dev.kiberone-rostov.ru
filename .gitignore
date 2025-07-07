@@ -2,3 +2,4 @@
 /upload/
 /vendor/
 /phpmyadmin
+*.log
